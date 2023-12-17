@@ -18,3 +18,4 @@
 6주차 : 딕셔너리와 튜플
 
 ### 수료증
+[코칭스터디 12기 파이썬 수료증.pdf](https://github.com/MinwooPyeon/Coaching_study_12_Python4_Everyone_2023/files/13695786/12.pdf)
