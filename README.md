@@ -14,4 +14,3 @@
 
 ### 수료증
 ![12 수료증](https://github.com/MinwooPyeon/Coaching_study_12_Python4_Everyone_2023/assets/153968515/0e58dd09-5832-4434-9ab2-ec9d40255c9c)
-![태블로 신병 훈련소 수료증.pdf](https://github.com/user-attachments/files/16921165/default.pdf)
