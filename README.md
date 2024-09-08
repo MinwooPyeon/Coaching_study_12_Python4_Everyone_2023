@@ -14,5 +14,3 @@
 
 ### 수료증
 ![12 수료증](https://github.com/MinwooPyeon/Coaching_study_12_Python4_Everyone_2023/assets/153968515/0e58dd09-5832-4434-9ab2-ec9d40255c9c)
-
-![코칭스터디 데이터 사이언스 2024 수료증.pdf](https://github.com/user-attachments/files/16921183/2024.pdf)
